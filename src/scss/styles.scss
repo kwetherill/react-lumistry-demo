@@ -75,6 +75,14 @@ html {
     background-position: center;
     width: 272px;
     height: 94px;
+
+    &-tag {
+        text-transform: uppercase;
+        font-size: 13px;
+        opacity: 0.8;
+        font-weight: 500;
+        letter-spacing: 0.2em;
+    }
 }
 
 /*

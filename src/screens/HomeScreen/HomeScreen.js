@@ -7,7 +7,7 @@ function HomeScreen() {
     return (
         <div id="home-screen" className="is-inverse">
             <i className="lds-logo" />
-            {/* <div>Demo</div> */}
+            <div className="lds-logo-tag">Demo</div>
         </div>
     );
 }
