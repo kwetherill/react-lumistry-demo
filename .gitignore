@@ -1,1 +1,4 @@
 archive
+build
+node_modules
+public
